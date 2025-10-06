@@ -68,3 +68,19 @@ The dataset **USA_Housing.csv** contains housing data with the following key col
 
 1. Install required Python libraries (if not installed):
 
+2. Place the `USA_Housing.csv` dataset in the same directory as the Jupyter Notebook or Python file.
+
+3. Run the notebook or script step-by-step to train and evaluate the linear regression model.
+
+---
+
+## Results
+
+- The model shows good predictive performance, as indicated by scatter plots of predictions and residuals.
+- Evaluation metrics indicate low error rates, demonstrating the model’s effectiveness in predicting house prices based on the given features.
+
+---
+
+## Contact
+
+For any questions or suggestions, feel free to reach out.
